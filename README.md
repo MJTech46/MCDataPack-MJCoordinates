@@ -26,8 +26,8 @@
 
 ## 🎯 Supported Versions
 
-* **Minecraft Java Version:** 1.21.9 – 1.26.2
-* **Older Version Support:** coming soon...
+* **Minecraft Java Version:** 1.6 - 1.21.9 & 1.21.9 – 1.26.2
+* **Note**: On versions below "1.21.9" might show "incompatible", but it works perfectly across all specified versions.
 
 ---
 
