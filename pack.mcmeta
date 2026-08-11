@@ -1,9 +1,7 @@
 {
   "pack": {
-    "pack_format": 15,
-    "supported_formats": [18, 81],
-    "min_format": 88,
+    "min_format": 94.1,
     "max_format": 107.1,
-    "description": "§aDisplays player coordinates.\n§6└ v1.1 ● mc1.6-1.26.2"
+    "description": "§aDisplays player coordinates.\n§6└ v1.2 ● mc1.21.11-1.26.2"
   }
 }
