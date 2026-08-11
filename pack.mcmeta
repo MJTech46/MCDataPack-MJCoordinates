@@ -1,7 +1,29 @@
 {
   "pack": {
-    "min_format": 94.1,
-    "max_format": 107.1,
-    "description": "§aDisplays player coordinates.\n§6└ v1.2 ● mc1.21.11-1.26.2"
+    "pack_format": 10,
+    "supported_formats": [10, 107],
+    "description": "§aDisplays player coordinates.\n§6└ v2.0 ● mc1.19-1.26.2"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "overlay_1_21",
+        "formats": [48, 88],
+        "min_format": 48,
+        "max_format": 88
+      },
+      {
+        "directory": "overlay_1_21_11",
+        "formats": [89, 94],
+        "min_format": 89,
+        "max_format": 94
+      },
+      {
+        "directory": "overlay_26",
+        "formats": [95, 107],
+        "min_format": 95,
+        "max_format": 107
+      }
+    ]
   }
 }
